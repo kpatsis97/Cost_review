@@ -1,0 +1,14 @@
+# Core scientific computing libraries
+numpy==2.0.0
+pandas==2.2.2
+
+# Data visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+pySankeys
+
+# Geospatial visualization
+geopandas==1.0.1
+
+# Text formatting
+textwrap
