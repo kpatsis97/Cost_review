@@ -10,7 +10,7 @@ Jupyter notebook (name.ipynb) for generating the figures presented in "From Data
 This notebook requires Python and several key libraries. It is recommended to use the provided `environment.yml` or `requirements.txt` files to create an environment with all necessary dependencies.
 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/kpatsis97/Cost_review.git
 ```
 2. Create the conda environment:
 ```bash
