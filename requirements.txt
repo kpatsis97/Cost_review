@@ -9,6 +9,3 @@ pySankey
 
 # Geospatial visualization
 geopandas==1.0.1
-
-# Text formatting
-textwrap
