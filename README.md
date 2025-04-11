@@ -1,5 +1,5 @@
 # From Data to Discovery: Technology Propels Speech-Language Research and Theory-Building in Developmental Science
-Jupyter notebook (visualisations.ipynb) for generating the figures presented in "From Data to Discovery: Technology Propels Speech-Language Research and Theory-Building in Developmental Science".
+Jupyter notebook (plot_making.ipynb) for generating the figures presented in "From Data to Discovery: Technology Propels Speech-Language Research and Theory-Building in Developmental Science".
 
 ## Contents
 - **Data loading**: Reads in dataset used in this review.
