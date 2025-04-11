@@ -5,7 +5,7 @@ pandas==2.2.2
 # Data visualization
 matplotlib==3.9.2
 seaborn==0.13.2
-pySankeys
+pySankey
 
 # Geospatial visualization
 geopandas==1.0.1
