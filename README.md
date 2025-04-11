@@ -14,7 +14,7 @@ git clone https://github.com/kpatsis97/Cost_review.git
 ```
 2. Create the conda environment:
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate speech_tools
 ```
 Alternatively, install packages manually with:
