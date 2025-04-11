@@ -11,4 +11,3 @@ dependencies:
   - seaborn==0.13.2
   - pip:
       - pySankey
-      - textwrap
